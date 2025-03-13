@@ -1,55 +1,22 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Primeiros passos SEO GIT</title>
+  <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
   <div id="app"></div>
-  <script defer>
+  <script>
     window.$docsify = {
-      name: 'SEO GIT',
-      repo: '',
-      // Copiar código
-      copyCode: {
-        buttonText: 'Copiar',
-        errorText: 'Erro',
-        successText: 'Copiado',
-      },
-      // Barra lateral e navegação
-      loadSidebar: true,
-      subMaxLevel: 3, // Define a profundidade dos submenus
-
-      logo: '/images/logo.webp',
-      // Pesquisa
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Buscar...',
-        noData: 'Nenhum resultado encontrado!',
-        depth: 5,
-      },
-      plugins: [
-        function (hook) {
-          hook.afterEach(function (html) {
-            return (
-              html +
-              '<footer style="text-align:center; padding:10px; font-size:14px; border-top:1px solid #ddd; margin-top:20px;">' +
-              '© ' + new Date().getFullYear() + ' Todos os direitos reservados. | ' +
-              'Desenvolvido por Adler Tawan' +
-              '</footer>'
-            );
-          });
-        }
-      ]
-    };
+      name: '',
+      repo: ''
+    }
   </script>
   <!-- Docsify v4 -->
-  <script defer src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
