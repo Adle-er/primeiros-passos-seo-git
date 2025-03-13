@@ -11,13 +11,45 @@
 </head>
 <body>
   <div id="app"></div>
-  <script>
+  <script defer>
     window.$docsify = {
-      name: '',
-      repo: ''
-    }
+      name: 'DW Docs',
+      repo: '',
+      // Copiar código
+      copyCode: {
+        buttonText: 'Copiar',
+        errorText: 'Erro',
+        successText: 'Copiado',
+      },
+      // Barra lateral e navegação
+      loadSidebar: true,
+      subMaxLevel: 3, // Define a profundidade dos submenus
+
+      logo: 'images/logo.webp',
+      // Pesquisa
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Buscar...',
+        noData: 'Nenhum resultado encontrado!',
+        depth: 5,
+      },
+      plugins: [
+        function (hook) {
+          hook.afterEach(function (html) {
+            return (
+              html +
+              '<footer style="text-align:center; padding:10px; font-size:14px; border-top:1px solid #ddd; margin-top:20px;">' +
+              '© ' + new Date().getFullYear() + ' Todos os direitos reservados. | ' +
+              'Desenvolvido por Adler Tawan' +
+              '</footer>'
+            );
+          });
+        }
+      ]
+    };
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script defer src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
