@@ -1,0 +1,26 @@
+:root {
+    --sidebar-width: 15rem;
+    --cover-bg: url('./images/logo-git.png');
+}
+
+body>main>aside>div.search>div.input-wrap {
+    margin: 0 auto !important;
+}
+
+body>main>aside>div.search>div.input-wrap {
+    border-radius: 20px !important;
+    height: 30px;
+}
+
+.sidebar .search input[type=search]:focus {
+    border-radius: 20px !important;
+}
+
+.imgs-equipe {
+    display: flex;
+}
+
+.info-equipe {
+    align-items: center;
+    text-align: center;
+}
