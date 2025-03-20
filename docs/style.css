@@ -1,5 +1,5 @@
 :root {
-    --sidebar-width: 15rem;
+    --sidebar-width: 25rem;
     --cover-bg: url('./images/logo-git.png');
 }
 
@@ -17,10 +17,24 @@ body>main>aside>div.search>div.input-wrap {
 }
 
 .imgs-equipe {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
 }
 
 .info-equipe {
     align-items: center;
     text-align: center;
+}
+
+h3>a>span {
+    color: rgba(11,135,218,255);
+}
+
+@media (max-width: 765px) {
+    .imgs-equipe {
+        display: grid;
+        grid-template-columns: 1fr; 
+        gap: 10px; 
+    }
 }

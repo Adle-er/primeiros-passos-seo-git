@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
   <link rel="stylesheet" href="./style.css">
+  <link rel="icon" href="./images/logo-git.png" type="Logo GIT">
   
 </head>
 
@@ -18,18 +19,10 @@
       search: 'auto'
     }
   </script>
-  <script defer>
+  <script>
     window.$docsify = {
       name: 'SEO GIT',
       repo: '',
-      // Configuração do plugin
-      plugins: [
-        function(hook, vm) {
-          hook.afterEach(function(content) {
-            return content + '\n\n---\n\n© ' + new Date().getFullYear() + ' SEO GIT. Todos os direitos reservados. | Desenvolvido por Adler Tawan';
-          });
-        }
-      ],
       loadSidebar: true,
       subMaxLevel: 3,
       logo: 'images/logo-git.png',
@@ -40,11 +33,15 @@
         noData: 'Nenhum resultado encontrado!',
         depth: 5
       },
-      name: 'SEO GIT',
-      repo: '',
       plugins: [
         function(hook, vm) {
           hook.doneEach(() => {
+            // Remover footer existente para evitar duplicação
+            const existingFooter = document.querySelector('footer');
+            if (existingFooter) {
+              existingFooter.remove();
+            }
+            
             const footer = document.createElement('footer');
             footer.style.cssText = 'text-align:center; padding:10px; font-size:14px; border-top:1px solid #ddd; margin-top:20px;';
             footer.innerText = `© ${new Date().getFullYear()} SEO GIT. Todos os direitos reservados. | Desenvolvido por Adler Tawan.`;
@@ -54,6 +51,7 @@
       ]
     };
   </script>
+  
   <!-- Docsify v4 -->
   <script defer src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script defer src="//cdn.jsdelivr.net/npm/docsify@4"></script>
