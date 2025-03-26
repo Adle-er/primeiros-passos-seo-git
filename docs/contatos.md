@@ -1,4 +1,4 @@
-# 📈 Introdução
+# 📈 Contato
 
 ### Conheça sua equipe
 
@@ -51,5 +51,11 @@ Além da equipe à qual você está sendo inserido, contamos com o suporte valio
 #### Suporte técnico
 
 Apenas via e-mail, através do ti@idealtrends.atlassian.net.
+
+### Recursos humanos
+
+### Feedz
+
+O Feedz é uma plataforma voltada para gestão de pessoas, que oferece diversas ferramentas para otimização de processos relacionados a recursos humanos, como feedbacks, pesquisas de engajamento, e desenvolvimento de competências. A plataforma é bastante útil para empresas que buscam promover um ambiente de trabalho mais colaborativo, transparente e focado no desenvolvimento contínuo de seus colaboradores.
 
 

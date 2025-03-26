@@ -4,7 +4,7 @@
 
 ***
 
-Bem-vindo(a) à documentação do SEO do Grupo Ideal Trends! Aqui, você encontrará os documentos necessários para sua jornada, além das diretrizes que definem a forma GIT de trabalho.
+Bem-vindo(a) à documentação do setor de **SEO** do **Grupo Ideal Trends**! Aqui, você encontrará os documentos necessários para sua jornada, além das diretrizes que definem a forma GIT de trabalho.
 
 Esta documentação foi cuidadosamente elaborada para orientar você desde o início, garantindo que compreenda nossos processos, práticas e estratégias de SEO. Seja você um novo colaborador ou alguém que busca aprimorar seus conhecimentos, aqui estão disponíveis as melhores práticas, ferramentas recomendadas e procedimentos que seguimos para alcançar resultados eficazes.
 
