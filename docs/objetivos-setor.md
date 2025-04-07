@@ -1,4 +1,4 @@
-# 📈 Introdução
+# 🤝 Introdução
 
 O setor **SEO GIT** tem como principal objetivo otimizar a visibilidade orgânica dos sites do **Grupo Ideal Trends** nos motores de busca, garantindo que ele seja corretamente indexado e bem posicionado nos resultados de sites de busca, com foco no maior deles, o **Google**. Para isso, realizamos auditorias técnicas e melhorias contínuas na estrutura e no conteúdo do site, sempre seguindo as diretrizes do Google e as melhores práticas de SEO On-Page.
 
@@ -16,7 +16,7 @@ Para garantir um trabalho eficiente e baseado em dados, utilizamos as seguintes 
 
  - **Google Analytics** – Para analisar métricas de tráfego, comportamento dos usuários e impactos das mudanças feitas no site.
 
- - **Ahrefs/SEMrush** – Para análise de backlinks, pesquisa de palavras-chave e monitoramento da concorrência.
+ - **Ahrefs / SEMrush** – Para análise de backlinks, pesquisa de palavras-chave e monitoramento da concorrência.
 
 
 ### Metas e métricas de sucesso

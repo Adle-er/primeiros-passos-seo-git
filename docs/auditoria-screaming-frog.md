@@ -1,4 +1,4 @@
-# 📈 Auditoria técnica com o Scraming Frog
+# 🐸 Auditoria técnica com o Scraming Frog
 
 O **Screaming Frog SEO Spider** é uma das principais ferramentas para auditoria técnica de SEO, permitindo rastrear o site e identificar problemas que podem impactar o ranqueamento nos motores de busca, além de gerar sitemap.
 
@@ -28,34 +28,34 @@ Definir um limite de rastreamento para sites grandes, evitando sobrecarga no ser
 
 Após o rastreamento, os dados podem ser analisados nas seguintes abas:
 
-1. Overview (Visão geral)
+1. **Overview (Visão geral)**
 Mostra um resumo dos principais problemas encontrados no site.
 
-2. Internal (Páginas internas)
+2. **Internal (Páginas internas)**
 Lista todas as URLs rastreadas e permite identificar problemas como páginas duplicadas e redirecionamentos.
 
-3. Response codes (Códigos de resposta HTTP)
- - 200 (OK): Página funcionando corretamente.
+3. **Response codes (Códigos de resposta HTTP)**
+ - **200 (OK)**: Página funcionando corretamente.
 
-- 301/302 (Redirecionamentos): Verificar se estão configurados corretamente.
+- **301/302 (Redirecionamentos)**: Verificar se estão configurados corretamente.
 
-- 404 (Página não encontrada): Identificar links quebrados e corrigir.
+- **404 (Página não encontrada)**: Identificar links quebrados e corrigir.
 
-- 500 (Erro no servidor): Necessário [acionar a equipe](/contatos.md).
+- **500 (Erro no servidor)**: Necessário [acionar a equipe](/contatos#equipe-seo-grupo-ideal-trends).
 
-4. Page Titles & Meta Descriptions
+4. **Page Titles & Meta Descriptions**
 Identifica títulos e descrições ausentes, duplicados ou muito longos/curtos.
 
-5. H1 & H2
+5. **H1 & H2**
 Verifica a hierarquia dos cabeçalhos e se há duplicações ou falta de H1.
 
-6. Images
-Detecta imagens pesadas e sem atributo alt, impactando acessibilidade e desempenho.
+6. **Images**
+Detecta imagens pesadas e sem atributo alt, impactando acessibilidade e desempenho. Otimizamos as imagens para que fiquem com, no máximo, 200kb.
 
-7. Canonicals
+7. **Canonicals**
 Confirma se as tags canonical estão corretamente configuradas para evitar conteúdo duplicado.
 
-8. Indexability
+8. **Indexability**
 Mostra quais páginas estão ou não indexáveis, identificando problemas com meta tags noindex ou bloqueios no robots.txt.
 
 ***

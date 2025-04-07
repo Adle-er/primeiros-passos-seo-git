@@ -1,4 +1,4 @@
-# 📈 Ferramentas complementares para SEO
+# 🔧 Ferramentas complementares para SEO
 
 Além do **Screaming Frog** e do **Google Lighthouse**, existem outras ferramentas essenciais para auditoria, monitoramento e otimização de SEO. Cada uma delas desempenha um papel importante na análise técnica, na pesquisa de palavras-chave e no acompanhamento de métricas.
 

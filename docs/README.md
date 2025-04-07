@@ -1,4 +1,4 @@
-# 📈 Introdução
+# 🤝 Introdução
 
 ### Boas vindas!
 

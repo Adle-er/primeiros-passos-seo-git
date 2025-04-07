@@ -1,4 +1,4 @@
-# 📈 Validação com Google Lighthouse
+# 🚨 Validação com Google Lighthouse
 
 O **Google Lighthouse** é uma ferramenta essencial para avaliar e otimizar o desempenho de uma página, garantindo que ela atenda aos padrões de SEO, acessibilidade, boas práticas e experiência do usuário. Ele gera relatórios detalhados e sugere melhorias que podem impactar diretamente o ranqueamento no Google.
 
@@ -32,7 +32,7 @@ O Lighthouse pode ser acessado de três formas:
 
 ***
 
-### Métricas principais Avaliadas pelo Lighthouse
+### Métricas principais avaliadas pelo Lighthouse
 
 O relatório do Lighthouse é dividido em cinco categorias:
 

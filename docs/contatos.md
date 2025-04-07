@@ -44,6 +44,8 @@ Para que você se sinta mais acolhido e integrado ao Grupo Ideal Trends, apresen
 
 </div>
 
+***
+
 ### Equipes fornecedoras
 
 Além da equipe à qual você está sendo inserido, contamos com o suporte valioso das equipes fornecedoras, que, embora não façam parte diretamente do seu time, estarão disponíveis para auxiliar você sempre que necessário. Essas equipes desempenham um papel fundamental no funcionamento da empresa, oferecendo suporte especializado e garantindo que você tenha todos os recursos e orientações necessárias para desempenhar suas funções com excelência.
@@ -51,11 +53,5 @@ Além da equipe à qual você está sendo inserido, contamos com o suporte valio
 #### Suporte técnico
 
 Apenas via e-mail, através do ti@idealtrends.atlassian.net.
-
-### Recursos humanos
-
-### Feedz
-
-O Feedz é uma plataforma voltada para gestão de pessoas, que oferece diversas ferramentas para otimização de processos relacionados a recursos humanos, como feedbacks, pesquisas de engajamento, e desenvolvimento de competências. A plataforma é bastante útil para empresas que buscam promover um ambiente de trabalho mais colaborativo, transparente e focado no desenvolvimento contínuo de seus colaboradores.
 
 

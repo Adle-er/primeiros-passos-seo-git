@@ -1,4 +1,4 @@
-# 📈 Melhoria de velocidade e performance
+# 🔼 Melhoria de velocidade e performance
 
 A **velocidade de carregamento de um site é um fator essencial** para SEO e experiência do usuário. O Google considera a performance como um critério de ranqueamento, **especialmente para dispositivos móveis**. Além disso, páginas lentas aumentam a taxa de rejeição e reduzem a taxa de conversão.
 
